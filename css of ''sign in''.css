@@ -1,0 +1,64 @@
+.header1{
+   background-image: url(247389.jpg);
+    background-size: cover;
+    background-repeat: no-repeat; 
+    max-width: 1900px;
+    height: 1170px;
+
+}
+.header2{
+    -webkit-text-stroke: 3px;
+    -webkit-text-size-adjust: 2px;
+    -webkit-text-stroke-color: rgb(121, 161, 10);
+    -webkit-text-fill-color: rgb(127, 255, 148);
+    font-size: 80px;
+    max-width:  290px;
+    max-height: 125px;
+    box-shadow: 0px 0px 30px 10px rgb(43, 219, 52);
+    margin: auto;
+    position: absolute;
+}
+.header3
+{
+    background-image: url(1973.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    -webkit-text-stroke: 5px;
+    -webkit-text-size-adjust: 2px;
+    -webkit-text-stroke-color: rgb(21, 33, 194);
+    -webkit-text-fill-color: aquamarine;
+    font-size: 120px;
+    max-width:  410px;
+    max-height: 150px;
+    box-shadow: 0px 0px 30px 10px rgb(79, 185, 255);
+    margin: auto;
+    position: absolute;
+    left: 500px;
+    bottom: 300px;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    
+}
+.header4
+{
+     background-image: url(1234.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    -webkit-text-stroke: 5px;
+    -webkit-text-size-adjust: 2px;
+    -webkit-text-stroke-color: rgb(216, 51, 100);
+    -webkit-text-fill-color: rgb(182, 18, 197);
+    font-size: 105px;
+    width: 410px;
+    height: 150px;
+    box-shadow: 0px 0px 30px 10px rgb(245, 150, 229);
+    margin: auto;
+    position: absolute;
+    left: 500px;
+    bottom: -100px;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+
+}
